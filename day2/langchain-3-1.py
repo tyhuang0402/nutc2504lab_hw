@@ -5,8 +5,8 @@ from langchain_core.output_parsers import StrOutputParser
 import json
 print('-- init --')
 llm = ChatOpenAI(
-    base_url = "https://ws-02.wade0426.me/v1",
-    model="google/gemma-3-27b-it",
+    base_url = "https://ws-05.huannago.com/v1",
+    model="Qwen3-VL-8B-Instruct-BF16.gguf",
     api_key="1311432044"
 )
 print('-- laingchain --')
