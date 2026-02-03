@@ -5,8 +5,8 @@ from langchain_core.output_parsers import StrOutputParser
 import json
 print('-- init --')
 llm = ChatOpenAI(
-    base_url = "https://ws-05.huannago.com/v1",
-    model="Qwen3-VL-8B-Instruct-BF16.gguf",
+    base_url = "https://ws-02.wade0426.me/v1",
+    model="google/gemma-3-27b-it",
     api_key="1311432044"
 )
 print('-- laingchain --')
@@ -28,5 +28,8 @@ tech_article =  """
 """
 
 print('-- starting --')
+for chunk in chain.stream({"article_content": tech_article}):
+    print(chunk, end="", flush=True)
+
 result = chain.invoke({"article_content": tech_article})
-print(result)
+print("complete results\n", result)
