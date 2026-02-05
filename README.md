@@ -1,9 +1,9 @@
 # nutc2504lab_hw
 
 2026寒假2504 AI工作坊
-> 資工三A  1311432044 黃粲宇
-> Email: silverstar53.www.ce@gmail.com
-> Line顯示名稱：W，有急事請以Line為優先聯絡
+> 資工三A  1311432044 黃粲宇 \
+> Email: silverstar53.www.ce@gmail.com \
+> Line顯示名稱：W，有急事請以Line為優先聯絡 
 
 ## 作業進度追蹤器：
 最後更新：2026-02-05 (Day.4) 中午
