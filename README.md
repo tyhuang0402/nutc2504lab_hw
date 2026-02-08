@@ -25,4 +25,6 @@
 - 課後實戰：Not started
 
 ## Other:
-Repo Creation Date: 2026-02-02
+Repo Creation Date: 2026-02-02 \
+\
+playwright cache location: `%USERPROFILE%\\AppData\\Local\\ms-playwright`

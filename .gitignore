@@ -1,3 +1,5 @@
 .vscode/
 .venv/
 .resources/
+.playwright/
+NOTES.TXT
