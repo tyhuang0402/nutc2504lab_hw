@@ -26,6 +26,9 @@
 ### Day. 5
 - 課堂練習：未完成
 - 課後實戰：Work in progress (Day. 6上課)
+### Day. 6
+- 課堂練習：
+  - CW 03: WIP
 
 ## Other:
 Repo Creation Date: 2026-02-02 \
