@@ -1,4 +1,8 @@
+ipykernel
 langchain
 langchain-openai
+langchain-text-splitters
 grandalf
 playwright
+qdrant-client
+semantic-text-splitter

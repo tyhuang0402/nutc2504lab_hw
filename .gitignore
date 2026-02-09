@@ -2,4 +2,5 @@
 .venv/
 .resources/
 .playwright/
+qdrant/
 NOTES.TXT
