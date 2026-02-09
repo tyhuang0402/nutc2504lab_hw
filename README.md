@@ -6,7 +6,7 @@
 > Line顯示名稱：W，有急事請以Line為優先聯絡 
 
 ## 作業進度追蹤器：
-最後更新：2026-02-09 (Day. 6) 中午
+最後更新：2026-02-09 (Day. 6) 下午
 ### Day. 1
 - 已完成
 ### Day. 2
@@ -28,7 +28,8 @@
 - 課後實戰：Work in progress (Day. 6上課)
 ### Day. 6
 - 課堂練習：
-  - CW 03: WIP
+  - CW 03: 已完成
+  - CW 04: Work in progress
 
 ## Other:
 Repo Creation Date: 2026-02-02 \
