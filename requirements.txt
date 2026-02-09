@@ -4,5 +4,7 @@ langchain-openai
 langchain-text-splitters
 grandalf
 playwright
-qdrant-client
+qdrant-client==1.7.3
 semantic-text-splitter
+pandas
+rank_bm25
