@@ -8,32 +8,41 @@
 ## 作業進度追蹤器：
 最後更新：2026-02-09 (Day. 6) 下午
 ### Day. 1
+![](https://geps.dev/progress/100)
 - 已完成
 ### Day. 2
+![](https://geps.dev/progress/100)
 - 課堂練習：
   - CH3: 已完成 
 - 課後實戰：已完成 (PR #5)
 ### Day. 3
+![](https://geps.dev/progress/70)
 - 課堂練習：
   - CH4: 已完成 
   - CH5: 已完成
 - 課後實戰：有錯誤，待修改 (PR #7)
 ### Day. 4
+![](https://geps.dev/progress/40)
 - 課堂練習：
   - CH6: 已完成
   - CH7: 7-1 已完成
 - 課後實戰：Not started
 ### Day. 5
+![](https://geps.dev/progress/30)
 - 課堂練習：未完成
 - 課後實戰：Work in progress (Day. 6上課)
 ### Day. 6
+![](https://geps.dev/progress/40)
 - 課堂練習：
   - CW 03: 已完成
   - CW 04: Work in progress
+- 課後HW：Not started
 ### Day. 7
+![](https://geps.dev/progress/40)
 - 課堂練習：
   - CW 05: 已完成 (三個皆於 day7_CW-all.ipynb 內)
-
+  - CW 06: Work in progress
+- 課後HW：Not started
 ## Other:
 Repo Creation Date: 2026-02-02 \
 \
