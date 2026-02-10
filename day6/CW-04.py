@@ -151,3 +151,10 @@ if __name__ == "__main__":
         print(f"{i}. 分數: {score:.4f}")
         print(f"   文件: {doc}\n")
 
+
+
+
+# if __name__ == "__main__":
+#     while True:
+#         user_input = input("\nuser: ")
+#         if user_input.lower() in ['exit', 'q']: break
