@@ -10,4 +10,7 @@ pandas
 rank_bm25
 torch
 torchvision
-transformer
+transformers
+pdfplumber
+markitdown
+docling

@@ -30,6 +30,9 @@
 - 課堂練習：
   - CW 03: 已完成
   - CW 04: Work in progress
+### Day. 7
+- 課堂練習：
+  - CW 05: 已完成 (三個皆於 day7_CW-all.ipynb 內)
 
 ## Other:
 Repo Creation Date: 2026-02-02 \
