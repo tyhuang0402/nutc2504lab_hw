@@ -47,3 +47,5 @@
 Repo Creation Date: 2026-02-02 \
 \
 playwright cache location: `%USERPROFILE%\\AppData\\Local\\ms-playwright`
+\
+tokenizers location: `%APPDATA%\\Roaming\\nltk_data`
